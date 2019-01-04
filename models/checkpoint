@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\James\\Desktop\\tensorflow\\models\\iris.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\James\\Desktop\\tensorflow\\models\\iris.ckpt"
